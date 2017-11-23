@@ -25,3 +25,29 @@
 .links {
   color: black;
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.column {
+
+}
+
+div {
+  border: thin solid black;
+}
+
+.column .large {
+  width: 630px;
+}
+
+.column .medium {
+  width: 300px;
+}
+
+.column .small {
+  width: 240px;
+}
